@@ -7,6 +7,10 @@ Codes for exploring concepts in computer science
 
 Iterate over elements in an array. If the current element's neighbor on the right is smaller, then swap them.
 
+### selection_sort.py
+
+Double loop over the array, placing the lowest remaining element into position.
+
 ## Search algorithms (compsci/search)
 
 ### binary_search.py
